@@ -120,7 +120,6 @@ This project demonstrates an end-to-end data engineering solution for extracting
 ├── lambda_function/          # AWS Lambda function code for data extraction.
 ├── glue_jobs/                # AWS Glue ETL job scripts.
 ├── spark_jobs/               # Spark job scripts for data transformation.
-├── config/                   # Configuration files (e.g., AWS settings, bucket names).
 └── docs/                     # Additional documentation and architecture diagrams.
 
 
